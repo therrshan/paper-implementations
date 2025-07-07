@@ -54,16 +54,6 @@ This will:
 - Save checkpoints every 10 epochs
 - Create `training_log.json` with detailed metrics
 
-### Generate Report
-
-To create a detailed HTML report:
-
-```bash
-python generate_report.py
-```
-
-This generates `alexnet_report.html` with comprehensive analysis and visualizations.
-
 ### Inference
 
 To test the trained model:
